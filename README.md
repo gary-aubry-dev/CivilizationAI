@@ -21,6 +21,14 @@ Cette structure modulaire et hiérarchique permet de résoudre les problèmes d�
 
 ---
 
+## Schéma de l’architecture CivilizationAI
+
+![Architecture de CivilizationAI](./schema-CivilizationAI.png)
+
+Ce schéma illustre la structure générale.
+
+---
+
 ## Pourquoi cette approche ?
 
 - Facilite l'ajout de nouvelles compétences sans risquer la cohérence globale.  
